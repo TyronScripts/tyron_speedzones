@@ -1,4 +1,4 @@
 {
-    "version": "1.0.2",
-    "message": "➤ Nueva funcionalidad de zonas de frenado más realista.\n➤ Optimización de rendimiento.\n➤ Corrección de bugs en la velocidad máxima."
+    "version": "2.0.0",
+    "message": "➤ Lanzamiento de v2.0.0 (Gran Actualización).\n➤ Nueva Luxury Tablet In-Game (/speedadmin) para gestión visual.\n➤ Zonas ahora guardadas en Base de Datos (Sin reiniciar).\n➤ Creador visual PolyZone con láseres in-game.\n➤ Nuevo HUD de velocidad en cristal y animaciones.\n➤ Panel de configuración (Idioma, Unidad MPH/KMH, Whitelists)."
 }
